@@ -1,0 +1,17 @@
+a
+cd C:\WORKS\WORKSPACES_APTANA\oiax\chap_03\asagao
+gitk
+
+a
+cd C:\WORKS\WORKSPACES_APTANA\oiax\chap_03\asagao
+r s
+
+[20120625_121017]----------------------------
+rails g controller top index
+
+gem install heroku
+
+heroku keys:add
+
+heroku create --stack cedar
+
